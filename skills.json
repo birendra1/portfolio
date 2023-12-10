@@ -1,0 +1,54 @@
+[
+  {
+    "name": "AWS",
+    "icon": "icons8-amazon-aws-32.png"
+  },
+  {
+    "name": "Ansible",
+    "icon": "./assets/images/icons8-ansible-48.png"
+  },
+  {
+    "name": "Linux Admin",
+    "icon": "./assets/images/icons8-linux-48.png"
+  },
+  {
+    "name": "Terraform",
+    "icon": "./assets/images/icons8-terraform-50.png"
+  },
+  {
+    "name": "Jenkins",
+    "icon": "./assets/images/icons8-jenkins-48.png"
+  },
+  {
+    "name": "Git",
+    "icon": "./assets/images/icons8-git-48.png"
+  },
+  {
+    "name": "Docker",
+    "icon": "./assets/images/"
+  },
+  {
+    "name": "Kubernetes",
+    "icon": "./assets/images/icons8-kubernetes-48.png"
+  },
+  {
+    "name": "Maven",
+    "icon": "./assets/images/icons8-maven-ios-50.png"
+  },
+  {
+    "name": "Shell Scripts",
+    "icon": "./assets/images/icons8-bash-64.png"
+  },
+  {
+    "name": "Postgre Sql",
+    "icon": "./assets/images/icons8-postgre-sql-a-free-and-open-source-relational-database-management-system-24.png"
+  },
+  {
+    "name": "Grafana",
+    "icon": "./assets/images/icons8-grafana-48.png"
+  },
+  {
+    "name": "Networking",
+    "icon": "./assets/images/icons8-networking-48.png"
+  }
+]
