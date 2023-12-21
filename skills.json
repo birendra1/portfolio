@@ -1,7 +1,7 @@
 [
   {
     "name": "AWS",
-    "icon": "icons8-amazon-aws-32.png"
+    "icon": "./assets/images/icons8-amazon-aws-32.png"
   },
   {
     "name": "Ansible",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Terraform",
-    "icon": "./assets/images/icons8-terraform-50.png"
+    "icon": "./assets/images/icons8-terraform-48.png"
   },
   {
     "name": "Jenkins",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Docker",
-    "icon": "./assets/images/"
+    "icon": "./assets/images/icons8-docker-48.png"
   },
   {
     "name": "Kubernetes",
@@ -46,9 +46,5 @@
   {
     "name": "Grafana",
     "icon": "./assets/images/icons8-grafana-48.png"
-  },
-  {
-    "name": "Networking",
-    "icon": "./assets/images/icons8-networking-48.png"
   }
 ]
