@@ -1,12 +1,8 @@
 <?php
-// Configuration
-$db_host = 'localhost';
-$db_username = 'root';
-$db_password = 'Abhi@0978';
-$db_name = 'warzones';
+require_once 'db_config.php';
 
 // Connect to MySQL
-$conn = new mysqli($db_host, $db_username, $db_password, $db_name);
+$conn = new mysqli(DB_CONN['host'], DB_CONN['username'], DB_CONN['password'], DB_CONN['database']);
 
 // Check connection
 if ($conn->connect_error) {
